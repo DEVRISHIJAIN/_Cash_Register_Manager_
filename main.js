@@ -18,7 +18,7 @@ checkButton.addEventListener("click", function validateBillAndCashAmount() {
       showMessage("Waana be ashamed of poverty?");
     }
   } else {
-    showMessage("You are a pathetic piece of garbage");
+    showMessage("You are a pathetic piece of human garbage");
   }
 });
 
